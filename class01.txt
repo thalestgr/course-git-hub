@@ -1,5 +1,4 @@
 
-<?php 
 // Set User Name
 git config --global user.name "thales.rollo"
 
@@ -24,6 +23,7 @@ git add filename
 
 // Commit a single file
 git commit filename -m "Message"
+
 
 
 
