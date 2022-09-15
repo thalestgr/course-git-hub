@@ -43,7 +43,10 @@ git clone https://link
 git clone https://link .
 
 // Check log
-git log
+git log // q for exit
+
+// Rollback
+git status filename
 
 
 
