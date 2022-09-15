@@ -48,6 +48,9 @@ git log // q for exit
 // Rollback
 git status filename
 
+// To ignore files, need to create a file named .gitignore, and then list all folders and files to ignore
+.gitignore
+
 
 
 
