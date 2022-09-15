@@ -24,6 +24,8 @@ git add filename
 // Commit a single file
 git commit filename -m "Message"
 
+// Commit All
+git commit -m "Message"
 
 
 
