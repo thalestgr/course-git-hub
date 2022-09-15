@@ -1,3 +1,4 @@
+<?php 
 
 // Set User Name
 git config --global user.name "thales.rollo"
@@ -35,5 +36,23 @@ git push -u origin main
 // Push files from repository
 git pull
 
+// Clone project and create subfolder
+git clone https://link 
+
+// Clone project and don't create subfolder
+git clone https://link .
+
+// Git log
 
 
+
+
+
+
+
+
+
+
+
+
+?>
