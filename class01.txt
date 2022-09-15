@@ -32,7 +32,8 @@ git branch -M main
 git remote add origin https://github.com/thalestgr/git_hub.git
 git push -u origin main
 
-
+// Push files from repository
+git pull
 
 
 
