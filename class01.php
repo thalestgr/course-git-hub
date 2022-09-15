@@ -42,7 +42,8 @@ git clone https://link
 // Clone project and don't create subfolder
 git clone https://link .
 
-// Git log
+// Check log
+git log
 
 
 
