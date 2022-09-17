@@ -2,6 +2,17 @@
 
 Nesse curso você vai dominar todo o **git** e **github** _do zero ao profissional._
 
+## Menu e Links Internos
+
+[Headings](#headings) |
+[Imagem](#imagem) |
+[Links](#links) |
+[Listas](#listas) |
+[Blockquote](#blockquote) |
+[Code](#code) |
+[Checkboxes](#checkboxes) |
+[Tabelas](#tabelas)
+
 ## Headings
 
 ### Título H3
@@ -73,9 +84,9 @@ function showName(nome) {
 
 ## Tabelas
 
-| Propriedade | Descrição                             | Default         |
-| ----------- | ------------------------------------- | --------------- |
-| name        | Informar o nome do usuário            | null            |
-| size        | Para definir o tamanho do campo       | 100             |
-| background  | Cor do fundo                          | #FFFFFF         |
-| onPress     | Função chamada quando clicar no botão | showFunction(); |
+| Propriedade | Descrição                             | Default        |
+| ----------- | ------------------------------------- | -------------- |
+| name        | Informar o nome do usuário            | null           |
+| size        | Para definir o tamanho do campo       | 100            |
+| background  | Cor do fundo                          | #FFFFFF        |
+| onPress     | Função chamada quando clicar no botão | showFunction() |
