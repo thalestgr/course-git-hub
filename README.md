@@ -2,9 +2,7 @@
 
 Nesse curso você vai dominar todo o **git** e **github** _do zero ao profissional._
 
-## Módulos
-
-_Entendendo o que é **github**, Aprendendo sobre **repositórios**_
+## Headings
 
 ### Título H3
 
@@ -23,3 +21,17 @@ _Entendendo o que é **github**, Aprendendo sobre **repositórios**_
 [Instagram](https://www.instagram.com)
 
 [Facebook](https://www.facebook.com)
+
+## Listas
+
+- Começando com o GIT
+- Aprendendo sobre branches
+- GIT avançado
+- Usando o GIT de forma profissional
+
+1. Começando com o GIT
+   1. O que é GIT?
+   2. Instalando o GIT
+2. Aprendendo sobre branches 2.
+3. GIT avançado
+4. Usando o GIT de forma profissional
