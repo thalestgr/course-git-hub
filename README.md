@@ -65,8 +65,17 @@ function showName(nome) {
 }
 ```
 
-## Tasklist
+## Checkboxes
 
 - [x] Site responsivo
 - [ ] Login com Facebook
 - [ ] Página sobre a empresa
+
+## Tabelas
+
+| Propriedade | Descrição                             | Default         |
+| ----------- | ------------------------------------- | --------------- |
+| name        | Informar o nome do usuário            | null            |
+| size        | Para definir o tamanho do campo       | 100             |
+| background  | Cor do fundo                          | #FFFFFF         |
+| onPress     | Função chamada quando clicar no botão | showFunction(); |
