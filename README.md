@@ -4,7 +4,7 @@ Nesse curso você vai dominar todo o **git** e **github** _do zero ao profission
 
 ## Módulos
 
-_Entendendo o que é **github**, Aprendendo sobre **repostiórios**_
+_Entendendo o que é **github**, Aprendendo sobre **repositórios**_
 
 ### Título H3
 
@@ -13,3 +13,13 @@ _Entendendo o que é **github**, Aprendendo sobre **repostiórios**_
 ##### Título H5
 
 ###### Título H6
+
+## Imagem
+
+![Descrição da Imagem](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png)
+
+## Links
+
+[Instagram](https://www.instagram.com)
+
+[Facebook](https://www.facebook.com)
