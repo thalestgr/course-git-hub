@@ -35,3 +35,7 @@ Nesse curso você vai dominar todo o **git** e **github** _do zero ao profission
 2. Aprendendo sobre branches 2.
 3. GIT avançado
 4. Usando o GIT de forma profissional
+
+> Este é um blockquote, usado para destacar alguma área.
+>
+> Segunda área destacada
