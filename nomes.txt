@@ -4,6 +4,3 @@ Rollo
 
 Ana
 Maria
-José
-
-Curso Git e GitHub
