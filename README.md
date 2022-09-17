@@ -36,6 +36,31 @@ Nesse curso você vai dominar todo o **git** e **github** _do zero ao profission
 3. GIT avançado
 4. Usando o GIT de forma profissional
 
+## Blockquote
+
 > Este é um blockquote, usado para destacar alguma área.
 >
 > Segunda área destacada
+
+## Code
+
+```
+npm start
+```
+
+```js
+function showName(nome) {
+	return "Bem Vindo: " + name;
+}
+```
+
+```html
+<h1>Título do <span>Projeto</span></h1>
+```
+
+```css
+.class {
+	background: #fff;
+	font-weight: 600;
+}
+```
