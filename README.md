@@ -64,3 +64,9 @@ function showName(nome) {
 	font-weight: 600;
 }
 ```
+
+## Tasklist
+
+- [x] Site responsivo
+- [ ] Login com Facebook
+- [ ] Página sobre a empresa
